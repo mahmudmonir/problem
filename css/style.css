@@ -1,0 +1,11 @@
+body{
+    margin: 0 px;
+    padding: 0 px;
+}
+.header{
+    min-height: 40px;
+    width: 100%;
+    background-color: midnightblue;
+    color: beige;
+    text-align: center;
+}
